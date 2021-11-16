@@ -1,7 +1,11 @@
 # ComputerNetwork｜CNexperiment
 计算机网络笔记（B站王道考研-个人记录）与计网实验同步更新
 
-[B站视频](https://www.bilibili.com/video/BV19E411D78Q?from=search&seid=3189490211985821988&spm_id_from=333.337.0.0)
+### 教材与工具
+```
+计算机网络（第五版）
+Cisco Packet Tracer
+```
 
 ### 第一章笔记放在OneNote上
 ```
