@@ -1,6 +1,11 @@
 # ComputerNetwork｜CNexperiment
 计算机网络笔记（B站王道考研-个人记录）与计网实验同步更新
 
+
+## RECOMMEND
+最近有朋友关注我这个仓库，这里给个小小的建议，不要看王道的CN，去看湖科大教书匠的CN，那个讲的好多了
+
+
 [B站视频]([B站视频](https://www.bilibili.com/video/BV19E411D78Q?from=search&seid=3189490211985821988&spm_id_from=333.337.0.0))
 
 ### 教材与工具
